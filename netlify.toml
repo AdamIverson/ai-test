@@ -1,4 +1,4 @@
 [build]
-  publish = "build"
+  publish = "index.html"
   command = "echo 'default context'"
   functions = "functions"
