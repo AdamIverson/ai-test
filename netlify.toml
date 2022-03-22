@@ -1,4 +1,7 @@
 [build]
-  publish = "index.html"
+  base = "project/"
+  publish = "build-output/"
   command = "echo 'default context'"
-  functions = "functions"
+
+[functions]
+  directory = "functions"
