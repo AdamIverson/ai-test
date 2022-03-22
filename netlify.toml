@@ -1,6 +1,5 @@
 [build]
-  base = "src/"
-  publish = "index.html"
+  publish = "src/"
   command = "echo 'default context'"
 
 [functions]
