@@ -1,6 +1,6 @@
 [build]
-  base = "project/"
-  publish = "build-output/"
+  base = "src/"
+  publish = "dist"
   command = "echo 'default context'"
 
 [functions]
