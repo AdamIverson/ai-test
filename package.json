@@ -20,6 +20,8 @@
   "homepage": "https://github.com/AdamIverson/ai-test#readme",
   "dependencies": {
     "bootstrap": "^5.1.3",
-    "netlify-cli": "^9.13.3"
+    "dotenv": "^16.0.2",
+    "netlify-cli": "^9.13.3",
+    "netlify-plugin-cloudinary": "^1.0.3"
   }
 }
